@@ -1,2 +1,2 @@
-# CandyShop.github.io
-English version of coursework website
+# TusyaSonne.github.io
+My website for coursework
